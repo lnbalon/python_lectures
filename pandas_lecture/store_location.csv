@@ -1,0 +1,11 @@
+Store_Name,Store_Location,Number_of_Employees_per_Shift,Rent_Monthly,Utilities
+Store_1,Marikina,3,100000.0,24000.0
+Store_2,Makati,5,150000.0,7500.0
+Store_3,Marikina,6,70000.0,14700.0
+Store_4,Muntinlupa,3,110000.0,13200.0
+Store_5,Pasig,4,210000.0,29400.0
+Store_6,Pasay,5,100000.0,24000.0
+Store_7,Pasig,4,97000.0,16490.0
+Store_8,Taguig,7,120000.0,22800.0
+Store_9,Quezon City,4,115000.0,6900.0
+Store_10,Makati,4,92000.0,22080.0
